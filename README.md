@@ -1,4 +1,4 @@
-# team-10-Ticket-Kiosk
+# team-10-ticket-kiosk
 _More information regarding the project_
 ---
 Develop an Object-Oriented Simulator for a Light Rail Ticket Vending Booth 
